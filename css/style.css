@@ -34,3 +34,17 @@ header span {
   width: 90%;
   background-color: white;
 }
+
+main section div button {
+  margin: 5px;
+  padding: 8px 15px;
+  color: lightgrey;
+  border-color: white;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+main section div .bluebutton {
+  background-color: #45acef;
+  color: white;
+}
